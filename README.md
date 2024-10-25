@@ -1,7 +1,7 @@
 <center><h1> Peer-to-Peer network </h1></center>
 <center><h2> By: <i>The IKEA boys</i></h2></center>
-![Sending Page](/Send.png)
-![Log In Page](/LogIn.png)
+![Sending Page](./Send.png)
+![Log In Page](./LogIn.png)
 
 <p align="center">
     <a href="#inspiration">Inspiration</a> •
