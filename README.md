@@ -1,7 +1,7 @@
 <center><h1> Peer-to-Peer network </h1></center>
 <center><h2> By: <i>The IKEA boys</i></h2></center>
-![Sending Page](./Send.png)
-![Log In Page](./LogIn.png)
+![Sending Page](https://raw.githubusercontent.com/JonathanEveillard/hack-the-hill-p2p/refs/heads/main/Send.png)
+![Home Page](https://raw.githubusercontent.com/JonathanEveillard/hack-the-hill-p2p/refs/heads/main/home.png)
 
 <p align="center">
     <a href="#inspiration">Inspiration</a> •
